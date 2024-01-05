@@ -1,0 +1,19 @@
+ .bd
+ {
+  background: url(bd.jpg);
+  background-size: cover;
+  height: 100vh;
+ }
+.word
+{
+    color: antiquewhite;
+    position: absolute;
+    bottom: 0px;
+    right: 16px;
+    font-size: 35px;
+    word-spacing: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.line1{ color: #FFE202;}
+.line2{ color: #A7DF02;}
+.line3{ color: #DC3508;}

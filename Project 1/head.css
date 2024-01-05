@@ -1,0 +1,48 @@
+body
+        {
+            margin: 0px;
+            font-family: Arial, sans-serif;
+        }
+        header
+        {
+          background-color: #351232;
+          color: aqua;
+          padding: 20px;
+          text-align: center;
+          display: flex;
+          flex-direction:  row;
+          align-items: center;
+          justify-content: space-evenly;
+        }
+        header img
+        {
+            height: auto;
+            max-width: 100px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+        header h1
+        {
+        margin-left: 10px;
+        font-size: 2.5em;
+        letter-spacing: 10px;
+        }
+         nav
+        {
+            display: flex; 
+            justify-content: right;
+
+             
+        }
+        nav a {
+            text-decoration: none;
+            color: greenyellow;
+            padding: 10px 15px;
+            font-size: 1.2em;
+         }
+         nav :hover
+         {
+            background-color: whitesmoke;
+            border-radius: 15px;
+            color: black;
+         }

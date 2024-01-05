@@ -1,0 +1,79 @@
+body
+{
+ margin: 0px;
+ padding: 0px;
+ height: 100vh;
+ width: 100vw;
+ background: url(register.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+header
+{
+    text-align: center;
+    color: brown  ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: aliceblue;
+    justify-content: center;
+    height: fit-content;
+    padding: 10px;
+    -webkit-text-stroke: 2px purple;
+}
+table
+{
+    border: 2px double gold;
+    padding: 50px;
+    color: blue;
+    -webkit-text-stroke: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    height: 50vh;
+    width: 30vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+.jio
+{
+    height: 100vh;
+    width: 100vw;
+}
+footer
+{
+ margin: 0px;
+ padding: 20px;
+ background-color: black;
+ text-align: center;
+ display: flex;
+ flex-direction:  row;
+ align-items: center;
+ justify-content: space-evenly;
+ color: aliceblue;
+}
+footer img
+{
+    height: 20vh;
+    width: 20vw;
+    display: inline-block;
+    vertical-align: middle;
+}
+.pic2
+{
+    height: 10vh;
+    width: 10vw;
+    display: inline-block;
+    vertical-align: middle;
+}
+.word
+{
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}

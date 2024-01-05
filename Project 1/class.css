@@ -1,0 +1,38 @@
+body
+{
+ margin: 0px;
+ padding: 0px;
+ background-color: #FFE300;
+ height: 100vh;
+ width: 100vw;
+}
+header
+{
+    text-align: center;
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: aliceblue;
+    justify-content: center;
+    height: fit-content;
+    padding: 10px;
+    -webkit-text-stroke: 2px black;
+}
+.c1
+{
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50vh;
+    width:50vw;
+    border-radius: 50px 50px;
+ }
+ .cw1
+ {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    text-align: center;
+ }
